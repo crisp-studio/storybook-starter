@@ -4,8 +4,8 @@ This project serves as a starter to kickstart a new storybook.
 
 ## Features
 
--Typescript
--Custom Theme
+- Typescript
+- Custom Theme
 
 ## Scripts
 
