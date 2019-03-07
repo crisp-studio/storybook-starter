@@ -13,4 +13,4 @@ In the project directory, you can run:
 
 `yarn storybook`
 
-Starts the storybook on [ http://localhost:9009/](http://localhost:9009/)
+Starts the storybook on [http://localhost:9009/](http://localhost:9009/)
